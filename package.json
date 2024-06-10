@@ -1,0 +1,23 @@
+{
+  "name": "fundraiser-contracts",
+  "version": "1.0.0",
+  "description": "The BARK Protocol´s Web3 Fundraising Platform is a decentralized fundraising solution built on both the Ethereum and Polygon networks. It allows users to create and manage fundraising campaigns, accept donations, and withdraw funds securely.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fundraising",
+    "ethereum",
+    "polygon",
+    "smart contracts",
+    "web3"
+  ],
+  "author": "BARK Protocol",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.22.5"
+  }
+}
