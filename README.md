@@ -39,7 +39,7 @@ The FundraiserFactory contract on the Polygon network facilitates the creation o
 1. Deploy the FundraiserFactory contract on the Polygon network.
 2. Follow the same steps as Ethereum deployment to create and manage fundraising campaigns, but ensure interaction with the contracts deployed on Polygon.
 
-# Deployment
+## Deployment
 
 deploy_contracts.js
 
