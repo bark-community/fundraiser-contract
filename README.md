@@ -39,6 +39,10 @@ The FundraiserFactory contract on the Polygon network facilitates the creation o
 1. Deploy the FundraiserFactory contract on the Polygon network.
 2. Follow the same steps as Ethereum deployment to create and manage fundraising campaigns, but ensure interaction with the contracts deployed on Polygon.
 
+# Deployment
+
+deploy_contracts.js
+
 ## Security
 
 Security is a top priority for the Web3 Fundraising Platform. Both Ethereum and Polygon contracts are designed with security best practices in mind, including ownership and access control, immutable records, and rigorous audits and testing.
